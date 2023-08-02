@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Home"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+ description = "My awesome website"
+ copyright = "© 2023"
+
+[author]
+  name = "Gordon Huang"
+  image = "img/rotated.jpg"
+   headline = "Energy Enthusiast"
+   bio = ""
+   links = [
+     { github = "https://github.com/gohuan" },
+     { linkedin = "https://linkedin.com/in/gohuang" },
+     { envelope = "mailto:gordonhuang25@gmail.com" },
+     { link = "https://github.com/gohuan/gohuan.github.io/assets/docs/Resume_huang_gordon.pdf" },
+   ]
