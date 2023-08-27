@@ -1,7 +1,6 @@
 ---
 title: "Mapping Electrical Capacity and Generation Sources in California"
 draft: false
-FeaturedImage: "static/Milford.jpg"
 
 showDate : false
 showDateUpdated : false
@@ -16,13 +15,13 @@ showSummary : true
 sharingLinks : false
 
 ---
-![Power Plant](/Milford.jpg)
-## Static Energy Maps
+## Static Energy Maps:
 
-Explore the following maps that showcase California's energy landscape.
+Explore the following maps that showcase California's energy landscape:
 
 ### All Sources
 - [Total Capacity by Type and County: 2022](https://caenergy.maps.arcgis.com/home/item.html?id=49ee349decdb4f94985e0341e40ecc89)
+
 - [Total Generation by Type and County: 2022](https://caenergy.maps.arcgis.com/home/item.html?id=74d78dc4ea694e9c9c24ef084367567f)
 
 ### Renewable Sources
@@ -44,5 +43,3 @@ Explore the following maps that showcase California's energy landscape.
 - [Solar PV Capacity and Installations for Systems 1MW and Smaller: 2022](https://caenergy.maps.arcgis.com/home/item.html?id=1fafb9ef244c45a891ed40e51556af73)
 
 - [Utility Solar Capacity and Generation by Type and County: 2022](https://caenergy.maps.arcgis.com/home/item.html?id=2ecfe33c90924b1f9b12b84f9f98a796)
-
----
