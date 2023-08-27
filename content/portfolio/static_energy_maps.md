@@ -1,6 +1,7 @@
 ---
 title: "Mapping Electrical Capacity and Generation Sources in California"
 draft: false
+FeaturedImage: "static/Milford.jpg"
 
 showDate : false
 showDateUpdated : false
